@@ -24,7 +24,7 @@ workspace:
         -
             fsPath: .
             selfContained: true
-            name: dendron-vault-initialized
+            name: 🟩.🔓.doc.vue3
     journal:
         dailyDomain: daily
         name: journal
